@@ -4,7 +4,7 @@ Learning project: A front-end clone of YouTube built using HTML, CSS
 ---
 
 ## 📸 Screenshots
-
+https://github.com/Harshithakc14/YouTube_clone/blob/main/snapshot1.png?raw=true
 
 
 ---
