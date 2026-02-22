@@ -32,7 +32,10 @@ This project helped me understand:
 *Harshitha K C*  
 Computer Science Student | Front-End Learner
 
-
+## 🤝 Connect With Me
+ 
+💼 LinkedIn: https://www.linkedin.com/in/harshitha-kc14 
+💻 GitHub: https://github.com/Harshithakc14
 ---
 
 ## ⭐ If you like this project, give it a star!
